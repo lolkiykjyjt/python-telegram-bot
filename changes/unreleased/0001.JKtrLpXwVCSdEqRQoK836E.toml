@@ -1,0 +1,5 @@
+other = "Add qodana CI checks"
+[[pull_requests]]
+uid = "1"
+author_uid = "qodana-cloud[bot]"
+closes_threads = []
